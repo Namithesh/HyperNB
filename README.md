@@ -8,7 +8,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hypernb&show_icons=true&theme=highcontrast&locale=en" alt="hypernb" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hypernb&theme=dark" alt="hypernb" /></p>
 
-[![Gmail Badge](https://img.shields.io/badge/-namitheshw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namitheshw@gmail.com)](mailto:namitheshw@gmail.com) ![](https://komarev.com/ghpvc/?username=hypernb)
+[![Gmail Badge](https://img.shields.io/badge/mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namitheshw@gmail.com)](mailto:namitheshw@gmail.com) ![](https://komarev.com/ghpvc/?username=hypernb)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
